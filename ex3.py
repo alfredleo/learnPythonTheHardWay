@@ -1,3 +1,5 @@
+#!/usr/bin/python
+# coding=utf-8
 # outputs text
 print "I will now count my chickens:"
 
@@ -25,7 +27,7 @@ print "What is 3 + 2?", 3 + 2
 print "What is 5 - 7?", 5 - 7
 
 # outputs simple text
-print "Oh, that's why it's False."
+print "Oh, that's why it's False. Привет"
 
 # outputs simple text
 print "How about some more."
