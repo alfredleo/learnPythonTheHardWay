@@ -1,2 +1,2 @@
 # learnPythonTheHardWay
-Learn python the hard way book examples
+Learn python the hard way 3rd edition book examples
