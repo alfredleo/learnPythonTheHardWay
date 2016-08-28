@@ -12,7 +12,10 @@ print "Roosters", 100 - 25 * 3 % 4
 print "Now I will count the eggs:"
 
 # outputs long calculations
+print "Here we use integer math:",
 print 3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6
+print "Now we will do the same using floating point math:",
+print 3 + 2 + 1 - 5 + 4 % 2 - 1.0 / 4 + 6
 
 # outputs text without any calculations
 print "Is it true that 3 + 2 < 5 - 7"
