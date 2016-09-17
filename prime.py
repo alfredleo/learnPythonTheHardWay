@@ -1,2 +1,2 @@
 def simple(num):
-    return False
+    return True
