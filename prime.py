@@ -1,2 +1,2 @@
-def simple():
-    return 1
+def simple(num):
+    return False
