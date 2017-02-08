@@ -19,4 +19,4 @@ print "His teeth are usually %s depending on the coffee." % teeth
 print "If I add %r, %r, and %d I get %d." % (age, height, weight, age + height + weight)
 
 my_height = 173 # height in cm 
-print 'height in inches is %.255f' % (my_height / 2.54)
+print 'height in inches is %.10f' % (my_height / 2.54)
